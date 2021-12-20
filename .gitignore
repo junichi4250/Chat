@@ -1,3 +1,4 @@
 /chat/chat
-/chat/go.mod
-/chat/go.sum
+go.mod
+go.sum
+.env
